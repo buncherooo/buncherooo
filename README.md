@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Buncherooo, you could call me Bimo</h1>
-<h3 align="center">I'm actually a Graphic Designer & Creative Person. But i passionate about tech especially on Web Dev</h3>
+<h5 align="center">I'm actually a Graphic Designer & Creative Person. But i passionate about tech especially on Web Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buncherooo&label=Profile%20views&color=0e75b6&style=flat" alt="buncherooo" /> </p>
 
